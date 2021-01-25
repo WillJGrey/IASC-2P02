@@ -2,6 +2,8 @@
 
 Welcome to my online portfolio for IASC 2P02!
 
+![Imgur](https://i.imgur.com/bHCDxN7.png?1)
+
 ## Interactive Study Guide
 
 Explore my interactive study guide here.
