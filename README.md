@@ -34,3 +34,5 @@ Parikka, Jussi. (2012) What is Media Archaeology? The Old and the New. Cambridge
 
 
 # Interactive Timeline
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Bccg7mLvCBZs4oOa6tBTzzgXyrld0dNQgGLA1z7XLHs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
